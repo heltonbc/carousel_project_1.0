@@ -1,0 +1,17 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.css);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick-theme.css);
+
+body {
+    background-color: #4099e6;
+}
+
+.carousel {
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.carousel div img {
+    height: 80vh;
+    gap: 20px;
+}
